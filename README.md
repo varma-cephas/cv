@@ -40,7 +40,7 @@ Collaborated with a team of software engineers to build a smooth user experience
 - Built increase product quantity for customers to enable them to easily increase the amount of items on the product detail page
 - Used PostgreSQL to add new products to the platform's existing database.
 
-## Projects
+# Projects
 <div alt="entry-title">
     <h3>Nylon</h3>
     <a href="https://github.com/octocat/gitflix">https://github.com/varma-cephas/nylon</a>
@@ -51,7 +51,7 @@ Developed a full-stack web application using ReactJS for the frontend and NestJS
 - Implemented user authentication and authorization using JSON Web Tokens and bcrypt for security.
 - Utilized GitHub Actions for continuous integration and deployment (CI/CD), ensuring efficient workflows.
 
-##  Skills
+#  Skills
 
 - Proficient in TypeScript, with a strong grasp of object-oriented and functional programming paradigms. My strong understanding of the language enables me to pick most programming languages quickly. 
 - Client and Service architecture, Authentication and Authorization, and API Creation
